@@ -1,6 +1,8 @@
 # Hi there! :hatching_chick:
 ### My name is Felipe Pires and I'm a full stack web developer focused on NodeJS/ReactJS.
 
+##### Main technologies and tools
+
 <img align="left" alt="React" height="30px" src="https://cdn.worldvectorlogo.com/logos/react-1.svg" />
 
 <img align="left" alt="SCSS" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/512px-Sass_Logo_Color.svg.png" />
