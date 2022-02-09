@@ -5,11 +5,11 @@
 ##### Main technologies and tools
 <img align="left" alt ="JavaScript Logo" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" />
 
-<img align="left" alt="React" height="40px" src="https://cdn.worldvectorlogo.com/logos/react-1.svg" />
-
 <img align="left" alt="NodeJS" height="40px" src="https://github.com/anythingcodes/slack-emoji-for-techies/blob/gh-pages/emoji/nodejs.png?raw=true" />
 
 <img align="left" alt="TypeScript" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" />
+
+<img align="left" alt="React" height="40px" src="https://cdn.worldvectorlogo.com/logos/react-1.svg" />
 
 <img align="left" alt="SCSS" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/512px-Sass_Logo_Color.svg.png" />
 
