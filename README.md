@@ -2,10 +2,15 @@
 ### My name is Felipe Pires and I'm a full stack web developer focused on NodeJS/ReactJS.
 
 <img align="left" alt="React" height="30px" src="https://cdn.worldvectorlogo.com/logos/react-1.svg" />
+
 <img align="left" alt="SCSS" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/512px-Sass_Logo_Color.svg.png" />
+
 <img align="left" alt="NodeJS" height="30px" src="https://github.com/anythingcodes/slack-emoji-for-techies/blob/gh-pages/emoji/nodejs.png?raw=true" />
+
 <img align="left" alt="TypeScript" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" />
+
 <img align="left" alt="MongoDb" height="30px" src="https://d33wubrfki0l68.cloudfront.net/4b27b5bdd5af913e7b5ccc0139cad7fce72ee93b/ab559/img/integrations/mongodb.png" />
+
 <img align="left" alt="PostGres SQL" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />
 
 
