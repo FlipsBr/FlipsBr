@@ -11,6 +11,8 @@
 
 <img align="left" alt="React" height="40px" src="https://cdn.worldvectorlogo.com/logos/react-1.svg" />
 
+<img align="left" alt"Vue logo" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" />
+
 <img align="left" alt="SCSS" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/512px-Sass_Logo_Color.svg.png" />
 
 <img align="left" alt="MongoDb" height="40px" src="https://d33wubrfki0l68.cloudfront.net/4b27b5bdd5af913e7b5ccc0139cad7fce72ee93b/ab559/img/integrations/mongodb.png" />
