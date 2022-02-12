@@ -27,7 +27,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+SCSS         3 hrs 5 mins    ██████████▓░░░░░░░░░░░░░░   43.02 % 
+JavaScript   2 hrs 13 mins   ███████▓░░░░░░░░░░░░░░░░░   30.84 % 
+TypeScript   1 hr 26 mins    █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
+CSS          11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Bash         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 ```
 <!--END_SECTION:waka-->
 
