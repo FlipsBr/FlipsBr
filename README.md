@@ -26,13 +26,16 @@
 <img height="180em" styles="border-radius: 4px;" src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" /> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FlipsBr&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <!--START_SECTION:waka-->
+
 ```text
-JavaScript   6 hrs 27 mins   ██████████████████████▒░░   89.98 % 
-Markdown     24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
-Go           6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-Git Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+JavaScript   4 hrs 45 mins   █████████████████████▓░░░   86.87 %
+Markdown     24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 %
+Go           6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+Git Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+YAML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 ```
+
 <!--END_SECTION:waka-->
 
 
