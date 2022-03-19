@@ -28,10 +28,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   11 hrs 51 mins  ████████████████████░░░░░   80.40 %
-Bash         1 hr 40 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.31 %
-Markdown     29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
-Other        25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+JavaScript   14 hrs 48 mins  ███████████████████▓░░░░░   78.39 %
+Other        2 hrs 30 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.32 %
 ```
 
 <!--END_SECTION:waka-->
