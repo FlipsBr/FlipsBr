@@ -28,9 +28,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   11 hrs 18 mins  ████████████████████▒░░░░   80.98 %
-C#           1 hr 43 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.37 %
-Other        49 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
+JavaScript   11 hrs 41 mins  ██████████████████████▒░░   88.81 %
+Other        49 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
 ```
 
 <!--END_SECTION:waka-->
