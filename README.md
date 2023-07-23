@@ -28,7 +28,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   5 hrs 13 mins   █████████████████████████   99.69 %
+JavaScript   4 hrs 46 mins   ███████████████████████░░   92.60 %
+Other        21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
 SSH Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
