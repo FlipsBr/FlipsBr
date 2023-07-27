@@ -28,9 +28,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   4 hrs 6 mins    ███████████████████████░░   91.54 %
-Other        21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
-SSH Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+JavaScript   7 hrs 3 mins    █████████████████████▒░░░   85.11 %
+Other        55 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.26 %
+JSON         17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+SSH Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
