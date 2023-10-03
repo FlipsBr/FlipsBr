@@ -1,5 +1,5 @@
 # Hi there! :hatching_chick:
-### My name is Felipe Pires and Backend developer focused on C#/NodeJs.
+### My name is Felipe Pires! I'm a backend developer focused on C#/NodeJs.
 ### 
 
 ##### Main technologies and tools
