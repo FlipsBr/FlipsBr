@@ -1,5 +1,5 @@
 # Hi there! :hatching_chick:
-### My name is Felipe Pires and I'm a full stack web developer focused on NodeJS/ReactJS.
+### My name is Felipe Pires and Backend developer focused on C#/NodeJs.
 ### 
 
 ##### Main technologies and tools
