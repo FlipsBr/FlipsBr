@@ -28,7 +28,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+YAML     12 mins         █████████████████████░░░░   84.27 %
+Docker   1 min           ███░░░░░░░░░░░░░░░░░░░░░░   12.61 %
+Bash     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+Other    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
 ```
 
 <!--END_SECTION:waka-->
