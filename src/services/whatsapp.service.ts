@@ -1,4 +1,5 @@
 import axios, { AxiosInstance, AxiosError } from 'axios';
+import FormData from 'form-data';
 import { config } from '../config';
 import { logger } from '../utils/logger';
 import {
@@ -11,7 +12,6 @@ import {
   LocationMessage,
   Contact,
   ReactionMessage,
-  MessageType,
 } from '../types';
 
 export class WhatsAppService {
@@ -302,7 +302,6 @@ export class WhatsAppService {
     filename: string
   ): Promise<string> {
     try {
-      const FormData = (await import('form-data')).default;
       const formData = new FormData();
       formData.append('messaging_product', 'whatsapp');
       formData.append('file', file, { filename, contentType: mimeType });
